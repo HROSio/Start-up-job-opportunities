@@ -1,8 +1,8 @@
 # Frontend Developer (m/f/d)
 
 <p align="center">
-<img src="(https://i.redd.it/bg9l9ruzr0ia1.gif)"
-width="300" height="400" border="10"/>
+<img src="https://i.redd.it/bg9l9ruzr0ia1.gif"
+width="250" height="300" border="10"/>
 </p>
 
 ### 🚀 Job description
